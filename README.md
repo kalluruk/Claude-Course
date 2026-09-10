@@ -4,7 +4,9 @@ Learn Claude Code from zero to hero in 2-3 hours. This course takes you from ins
 
 ## Who this is for
 
-Complete beginners. You only need a terminal, a code editor, and basic familiarity with running commands. No prior AI tooling experience is required.
+:QW!
+Complete  beginners. You only need a terminal, a code editor, and basic
+familiarity with running commands. No prior AI tooling experience is required.
 
 ## What is Claude Code
 
